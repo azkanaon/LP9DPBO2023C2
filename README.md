@@ -31,3 +31,8 @@ Kalau mau bikin dari awal sendiri:
 ## Dokumentasi
 ![review](https://github.com/azkanaon/LP9DPBO2023C2/assets/90915678/6261f6be-c02f-49fd-b1f6-05a063d7612d)
 
+
+## Bukti Coba Python
+![cobaDatabasePython](https://github.com/azkanaon/LP9DPBO2023C2/assets/90915678/9e0681bd-3e03-4c87-a8a0-7d54b9bb14f1)
+
+
